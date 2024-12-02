@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 public class TasaDeCambio {
-    private static final String API_KEY = "b8daf707e48427a69822e1b4";
+    private static final String API_KEY = "EXCHANGE_RATE_API_KEY";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public Map<String, Double> obtenerTasasDeCambio(String base, String[] monedas) throws IOException {
