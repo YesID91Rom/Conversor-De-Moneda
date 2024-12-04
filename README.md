@@ -1,3 +1,5 @@
+[![Badge-Conversor.png](https://i.postimg.cc/kMVDnh6q/Badge-Conversor.png)](https://postimg.cc/8sST44m0)
+
 <h1 align="center"> Challenge-Conversor-de-Monedas :dollar: </h1>
 
 Este programa es una aplicación de consola en Java diseñada para convertir cantidades entre diferentes monedas utilizando una API de tasas de cambio en tiempo real. Proporciona una interfaz de usuario simple en la consola para que los usuarios seleccionen la conversión de moneda deseada e ingresen la cantidad que desean convertir.
